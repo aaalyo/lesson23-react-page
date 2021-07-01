@@ -3,7 +3,7 @@ function Footer() {
 
     return (
         <div>
-            <nav className="navbar navbar-light bg-white me-5 ms-5 pe-5 ps-5 border-top">
+            <nav className="navbar navbar-light bg-white me-5 ms-5 pe-5 ps-5 border-top mt-5">
                 <div className="container">
                     <div className="row w-100 ">
                         <div className="col">
